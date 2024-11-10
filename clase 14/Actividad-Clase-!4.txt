@@ -1,0 +1,17 @@
+Problema del Viajante
+El Problema del Viajante (TSP) busca la ruta más corta para que un viajante visite una lista de ciudades una vez y regrese al punto de partida. Es un problema complejo y difícil de resolver de manera exacta.
+
+Combinaciones Posibles para 15 Ciudades
+Para 15 ciudades, el número de rutas posibles es:
+
+$$\frac{(15-1)!}{2} = 43,589,145,600$$
+
+Métodos Heurísticos
+1. Optimización por Colonia de Hormigas (ACO): Simula el comportamiento de las hormigas usando feromonas para encontrar rutas eficientes.
+2. Algoritmos Genéticos (GA): Utiliza principios de evolución natural para mejorar soluciones iterativamente.
+3. Simulated Annealing (SA): Emula el enfriamiento de metales para escapar de óptimos locales.
+4. Búsqueda Tabú (TS): Evita ciclos recientes para explorar mejor el espacio de soluciones.
+
+Estos métodos ayudan a encontrar soluciones aproximadas al TSP de manera eficiente.
+
+¿Te gustaría más información sobre alguno de estos métodos?
